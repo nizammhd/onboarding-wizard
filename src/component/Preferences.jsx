@@ -8,7 +8,7 @@ function Preferences({
     <div>
       <h2>Preferences</h2>
 
-      {/* Primary Track */}
+      
       <div>
         <label>Primary Track</label>
         <br />
@@ -59,7 +59,7 @@ function Preferences({
 
       <br />
 
-      {/* Experience */}
+      
       <div>
         <label>Experience Level</label>
         <br />

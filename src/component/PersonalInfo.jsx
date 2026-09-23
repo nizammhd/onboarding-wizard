@@ -8,7 +8,7 @@ function PersonalInfo({
     <div>
       <h2>Personal Information</h2>
 
-      {/* Name */}
+     
       <div>
         <label>Name</label>
         <br />
@@ -40,7 +40,7 @@ function PersonalInfo({
 
       <br />
 
-      {/* Email */}
+      
       <div>
         <label>Email</label>
         <br />
@@ -72,7 +72,6 @@ function PersonalInfo({
 
       <br />
 
-      {/* Portfolio */}
       <div>
         <label>Portfolio / GitHub</label>
         <br />
